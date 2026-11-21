@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410811.svg)](https://doi.org/10.5281/zenodo.24410811)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-mertens-explicit-upper-bound). This repository is archived and keeps its releases and DOI.
+
 As more prime ideals enter a product, its value rises in jumps. Mertens' theorem predicts a smooth curve for its growth. Daniel R. Johnston asked how far you may have to go before that curve overtakes the product in a family of number fields. He posed the question during Ethan Lee's talk at the 2024 Comparative Prime Number Theory Symposium. [Problem 8, pp. 4–5](https://arxiv.org/pdf/2407.03530#page=4)
 
 The bound for a field of discriminant $d$ assumes GRH for its Dedekind zeta function $\zeta(s)L(s,\chi_d)$. Alpöge's announced Dirichlet GRH theorem supplies this hypothesis for both factors. [Announcement](https://alpo.ge/remark.pdf) [Formal verification](https://math.mit.edu/~drew/grh/)
